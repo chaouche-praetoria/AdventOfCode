@@ -8,5 +8,6 @@ public class Application {
 		System.out.println("Test du code ");
 		
 		Day1.test();
+		System.out.println("exemple de modifs possible");
 	}
 }
